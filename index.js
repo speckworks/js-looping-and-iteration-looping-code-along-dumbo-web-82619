@@ -8,6 +8,8 @@ function writeCards(friendsArray, event) {
 }
 
 
-function countDown(10){
+function countdown(countdown){
+countDown(10){
   while(i>0, i-=){console.log(i);
+}
 }
