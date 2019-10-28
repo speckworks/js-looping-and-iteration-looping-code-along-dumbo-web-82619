@@ -1,5 +1,5 @@
 
-function writeCards(friends,`surprise`){
+function writeCards(friends, event){
 let friends = ['Lisa', 'Kaitlin', 'Jan'];
     
   for(i = 0, i < friends.length, i++){
