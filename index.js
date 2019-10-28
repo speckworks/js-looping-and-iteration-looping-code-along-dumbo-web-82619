@@ -22,4 +22,5 @@
 //   "Thank you, Ali, for the wonderful birthday gift!"
 // ];
 // ```
-let writeCards(["Ada", "Brendan", "Ali"], "birthday") = 
+let friends = ["Ada", "Brendan", "Ali"];
+let writeCards(friends) =
