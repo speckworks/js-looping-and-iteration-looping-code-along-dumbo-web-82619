@@ -4,3 +4,5 @@ function writeCards(friends, event){
   for(let i = 0, i < friends.length, i++){
     thankYouCards.push(`Thank you,${friends[i]}, for the wonderful ${event} gift!`)
   }
+  return thankYouCards
+}
